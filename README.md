@@ -19,6 +19,7 @@ TODO
 ## Running the Flint
 
 #### Get the MOJA Indonesia docker container
+Open Windows Powersheel from windows start menu.
 
 ```powershell
 PS  C:\moja.indonesia.run_env> docker pull mulliongroup/moja-indonesia
